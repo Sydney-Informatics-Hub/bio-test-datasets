@@ -3,7 +3,10 @@ Subset bioinformatics datasets for workflow development and testing.
 
 Contains: 
 
-* Paired-end Platinum Genomes fastq files for NA12877 subset to 10k reads
+| Data      | Description                                                  | Source                                                                              | Licence                                                           |
+| --------- | ------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| `NA12877` | Paired-end Platinum Genomes fastq files subset to 10k reads  |                                                                                     |                                                                   |
+| `ggal`    | Paired RNA-seq reads (.fq) and reference transcriptome (.fa) | [nf-training](https://github.com/nextflow-io/training/tree/master/nf-training/data) | [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
 
 To download, run: 
 
